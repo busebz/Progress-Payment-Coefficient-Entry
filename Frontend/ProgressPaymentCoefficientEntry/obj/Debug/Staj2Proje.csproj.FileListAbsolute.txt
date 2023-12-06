@@ -1,0 +1,23 @@
+C:\Users\Busenur BOZ\Desktop\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.csproj.AssemblyReference.cache
+C:\Users\Busenur BOZ\Desktop\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Busenur BOZ\Desktop\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.Form1.resources
+C:\Users\Busenur BOZ\Desktop\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.Properties.Resources.resources
+C:\Users\Busenur BOZ\Desktop\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.csproj.GenerateResource.cache
+C:\Users\Busenur BOZ\Desktop\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.csproj.CoreCompileInputs.cache
+C:\Users\Busenur BOZ\Desktop\Staj2Proje\Staj2Proje\bin\Debug\Staj2Proje.exe.config
+C:\Users\Busenur BOZ\Desktop\Staj2Proje\Staj2Proje\bin\Debug\Staj2Proje.exe
+C:\Users\Busenur BOZ\Desktop\Staj2Proje\Staj2Proje\bin\Debug\Staj2Proje.pdb
+C:\Users\Busenur BOZ\Desktop\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.exe
+C:\Users\Busenur BOZ\Desktop\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.pdb
+C:\Users\Busenur BOZ\Desktop\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.csproj.ResolveComReference.cache
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\2.DÖNEM\Staj2Proje\Staj2Proje\bin\Debug\Staj2Proje.exe.config
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\2.DÖNEM\Staj2Proje\Staj2Proje\bin\Debug\Staj2Proje.exe
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\2.DÖNEM\Staj2Proje\Staj2Proje\bin\Debug\Staj2Proje.pdb
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\2.DÖNEM\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.csproj.AssemblyReference.cache
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\2.DÖNEM\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.csproj.ResolveComReference.cache
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\2.DÖNEM\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.Form1.resources
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\2.DÖNEM\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.Properties.Resources.resources
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\2.DÖNEM\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.csproj.GenerateResource.cache
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\2.DÖNEM\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.csproj.CoreCompileInputs.cache
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\2.DÖNEM\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.exe
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\2.DÖNEM\Staj2Proje\Staj2Proje\obj\Debug\Staj2Proje.pdb

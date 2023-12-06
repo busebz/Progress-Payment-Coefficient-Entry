@@ -1,0 +1,22 @@
+C:\Users\Busenur BOZ\Desktop\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\bin\Debug\Staj2Proje.exe.config
+C:\Users\Busenur BOZ\Desktop\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\bin\Debug\Staj2Proje.exe
+C:\Users\Busenur BOZ\Desktop\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\bin\Debug\Staj2Proje.pdb
+C:\Users\Busenur BOZ\Desktop\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\ProgressPaymentCoefficientEntry.csproj.AssemblyReference.cache
+C:\Users\Busenur BOZ\Desktop\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\ProgressPaymentCoefficientEntry.csproj.ResolveComReference.cache
+C:\Users\Busenur BOZ\Desktop\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\Staj2Proje.MainPage.resources
+C:\Users\Busenur BOZ\Desktop\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\Staj2Proje.Properties.Resources.resources
+C:\Users\Busenur BOZ\Desktop\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\ProgressPaymentCoefficientEntry.csproj.GenerateResource.cache
+C:\Users\Busenur BOZ\Desktop\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\ProgressPaymentCoefficientEntry.csproj.CoreCompileInputs.cache
+C:\Users\Busenur BOZ\Desktop\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\Staj2Proje.exe
+C:\Users\Busenur BOZ\Desktop\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\Staj2Proje.pdb
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\ProgressPaymentCoefficientEntry.csproj.AssemblyReference.cache
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\Staj2Proje.exe
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\Staj2Proje.pdb
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\bin\Debug\Staj2Proje.exe.config
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\bin\Debug\Staj2Proje.exe
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\bin\Debug\Staj2Proje.pdb
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\ProgressPaymentCoefficientEntry.csproj.ResolveComReference.cache
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\Staj2Proje.MainPage.resources
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\Staj2Proje.Properties.Resources.resources
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\ProgressPaymentCoefficientEntry.csproj.GenerateResource.cache
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\ProgressPaymentCoefficientEntry\ProgressPaymentCoefficientEntry\obj\Debug\ProgressPaymentCoefficientEntry.csproj.CoreCompileInputs.cache
